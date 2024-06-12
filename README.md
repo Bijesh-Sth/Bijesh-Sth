@@ -1,7 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning and exploring various topics in software development and technology. My interests span across different domains, including web development, data science, and mobile app development. I'm passionate about continuously enhancing my skills and staying updated with the latest advancements in the tech industry.
-
-I believe in the power of learning and collaboration, and I actively seek opportunities to contribute to open-source projects and engage with communities to share knowledge and ideas.
+🌱 I’m currently learning and exploring various topics in software development and technology. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bjs_sth/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bijesh-sth/) 
